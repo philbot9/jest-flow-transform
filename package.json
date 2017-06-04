@@ -3,6 +3,19 @@
   "version": "1.0.0",
   "description": "Custom jest transformer to remove flow type annotations",
   "main": "index.js",
+  "keywords": [
+    "jest",
+    "flow",
+    "transform",
+    "transformer",
+    "flowtype",
+    "types",
+    "test"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/philbot9/jest-flow-transform"
+  },
   "scripts": {
     "test": "jest",
     "prepublish": "npm test"
