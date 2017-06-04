@@ -1,6 +1,6 @@
 {
   "name": "jest-flow-transform",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Custom jest transformer to remove flow type annotations",
   "main": "index.js",
   "keywords": [
