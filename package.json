@@ -23,7 +23,7 @@
   "author": "Philip Klostermann <philip.klostermann@gmail.com>",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^20.0.4"
+    "jest": "^24.8.0"
   },
   "dependencies": {
     "flow-remove-types": "^1.2.1"
