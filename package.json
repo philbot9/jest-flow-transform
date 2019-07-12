@@ -26,6 +26,6 @@
     "jest": "^20.0.4"
   },
   "dependencies": {
-    "flow-remove-types": "^1.2.1"
+    "flow-remove-types": "^2.101.0"
   }
 }
